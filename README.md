@@ -18,23 +18,21 @@ This project is an API-driven application built using Django and Django Rest Fra
    ```bash
    git clone https://github.com/R4255/rest-api.git
    cd rest-api
-Install dependencies:
+2.**Install dependencies:**
 
-bash
-Copy code
-pip install -r requirements.txt
-Run migrations:
+```bash
+   pip install -r requirements.txt
+3.**Run migrations:**
 
-bash
-Copy code
-python manage.py migrate
-Create a superuser:
+```bash   
+   python manage.py migrate
 
-bash
-Copy code
-python manage.py createsuperuser
-Run the development server:
+4.**Create a superuser:**
 
-bash
-Copy code
-python manage.py runserver
+```bash
+   py manage.py createsuperuser
+
+5.**Run the development server:**
+
+```bash
+   python manage.py runserver
