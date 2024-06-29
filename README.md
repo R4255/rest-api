@@ -16,7 +16,6 @@ Features
 - Enhanced Filtering, Searching, and Ordering: Efficient data retrieval mechanisms.
 - CRUD Operations: Full create, read, update, and delete functionalities for all models.
 
-![API Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 Installation
 ------------
